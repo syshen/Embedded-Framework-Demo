@@ -10,10 +10,10 @@ import UIKit
 
 public class SwiftCar: NSObject {
     public func run() {
-        println("Run forward for 10 miles")
+        print("Run forward for 10 miles")
     }
     
     public func stop() {
-        println("Car stopped")
+        print("Car stopped")
     }
 }
